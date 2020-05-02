@@ -19,6 +19,7 @@ set PYTHONPATH=%OSGEO4W_ROOT%\apps\qgis\python;%PYTHONPATH%
 
 :: Have this for the first time to install Jupyter Notebook
 ::pip install notebook
+::pip install seaborn
 
 :: Go back to original directory
 pushd %~dp0
